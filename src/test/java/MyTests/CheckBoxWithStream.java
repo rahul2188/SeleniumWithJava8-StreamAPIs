@@ -12,7 +12,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class CheckBoxWithStream {
 
 	public static void main(String[] args) {
-
+		//comment 1 rahul
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		
